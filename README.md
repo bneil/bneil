@@ -21,7 +21,6 @@ Some of my other interests are subjects around the indieweb.
   <img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-  <img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
 <!--
 **bneil/bneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
