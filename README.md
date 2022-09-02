@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=radical)
 <!--
 **bneil/bneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
