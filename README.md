@@ -2,6 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bneil.bneil&left_color=green&right_color=red)
 
+<img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
+
 my username is [bneil](https://bneil.me/), a polyglot engineer and CTO for a startup in Colorado. I have had the privilege to work the past twelve years making websites, services, documentation and tools for amazing companies. Most of my passions come from writing software for a living. But I try and participate in opensource develompment when i have free time. 
 
 Some of my other interests are subjects around the indieweb.
