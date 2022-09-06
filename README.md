@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bneil.bneil&left_color=green&right_color=red)
+<p/>
 ![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=dark)
 
 <img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
