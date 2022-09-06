@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bneil.bneil&left_color=green&right_color=red)
+![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=dark)
 
 <img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
 
@@ -8,7 +9,6 @@ my username is [bneil](https://bneil.me/), a polyglot engineer and CTO for a sta
 
 Some of my other interests are subjects around the indieweb.
 
-![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=dark)
 
 <br/>
 <a href="https://www.instagram.com/roll4dev/">
