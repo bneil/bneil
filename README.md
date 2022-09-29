@@ -1,4 +1,5 @@
 ### Hi there 👋
+_Dovie'andi se tovya sagain._
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bneil.bneil&left_color=green&right_color=red)
 <p/>
