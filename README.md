@@ -1,7 +1,7 @@
 ### Hi there 👋
 _Dovie'andi se tovya sagain._
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bneil.bneil&left_color=green&right_color=red)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbneil%2Fbneil%2F&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbneil%2Fbneil%2F)
 <p/>
 
 ![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=dark)
