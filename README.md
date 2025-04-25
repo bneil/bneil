@@ -8,7 +8,7 @@ _Dovie'andi se tovya sagain._
 
 <img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
 
-my username is [bneil](https://bneil.me/), a polyglot engineer and CTO for a startup in Colorado. I have had the privilege to work the past seventeen years making websites, services, documentation and tools for amazing companies. Most of my passions come from writing software for a living which includes opensource develompment when i have the free time. 
+my username is [bneil](https://bneil.me/), a principal engineer for an AI startup in Colorado. I have had the privilege to work the past seventeen years making websites, services and tools for amazing companies. Most of my passions come from writing software for a living which includes opensource develompment when i have the free time. 
 
 Some of my other interests are subjects around the indieweb.
 
@@ -23,18 +23,3 @@ Some of my other interests are subjects around the indieweb.
 <a href="https://www.linkedin.com/in/readyplayer1/">
   <img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<!--
-**bneil/bneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
