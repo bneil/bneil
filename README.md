@@ -7,7 +7,7 @@ _Dovie'andi se tovya sagain._
 ![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=dark)
 
 
-my username is [bneil](https://bneil.me/), a principal engineer for an AI startup in Colorado. I have had the privilege to work the past seventeen years making websites, services and tools for amazing companies. Most of my passions come from writing software for a living which includes opensource develompment when i have the free time. 
+my username is [bneil](https://bneil.me/), a principal engineer for an stealth startup in Colorado. I have had the privilege to work the past seventeen years making websites, services and tools for amazing companies. Most of my passions come from writing software for a living which includes opensource develompment when i have the free time. 
 
 Some of my other interests are subjects around the indieweb.
 
