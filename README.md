@@ -23,3 +23,4 @@ Some of my other interests are subjects around the indieweb.
 <a href="https://www.linkedin.com/in/readyplayer1/">
   <img align="left" alt="linkedin" width="22px" src="https://gist.githubusercontent.com/sebastianmarines/ab8da37c9cec1198f424ea343a090f4c/raw/1877a68ed40a84838da52b9c4b9416ac3d91a418/linkedin.svg" />
 </a>
+<img alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
