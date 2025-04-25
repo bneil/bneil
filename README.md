@@ -1,12 +1,12 @@
 ### Hi there 👋
 _Dovie'andi se tovya sagain._
+<img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbneil%2Fbneil%2F&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbneil%2Fbneil%2F)
 <p/>
 
 ![bneil's github stats](https://github-readme-stats.vercel.app/api?username=bneil&show_icons=true&theme=dark)
 
-<img align="right" alt="GIF" src="https://i.imgur.com/2iPevsU.gif" />
 
 my username is [bneil](https://bneil.me/), a principal engineer for an AI startup in Colorado. I have had the privilege to work the past seventeen years making websites, services and tools for amazing companies. Most of my passions come from writing software for a living which includes opensource develompment when i have the free time. 
 
