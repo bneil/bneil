@@ -18,7 +18,7 @@ Some of my other interests are subjects around the indieweb.
   <img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/benneil">
-  <img align="left" alt="twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="twitter" width="22px" src="https://gist.githubusercontent.com/sebastianmarines/ab8da37c9cec1198f424ea343a090f4c/raw/1877a68ed40a84838da52b9c4b9416ac3d91a418/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/readyplayer1/">
   <img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
